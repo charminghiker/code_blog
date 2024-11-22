@@ -20,8 +20,22 @@
               "icon": "lucide-file",
               "title": "管理项目简介"
             }
+          },
+          {
+            "id": "ac089b3816162250",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (conflict-files-obsidian-git)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "银商/管理项目简介.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "管理项目简介 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -112,12 +125,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "银商/管理项目简介.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "管理项目简介 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -138,11 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "银商/管理项目简介.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "管理项目简介 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -173,12 +183,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "811701aa55ef4c5a",
+  "active": "ac089b3816162250",
   "lastOpenFiles": [
+    "周报/241122.md",
+    "周报",
+    "conflict-files-obsidian-git.md",
+    "银商/管理项目简介.md",
     "银商/attachments/Pasted image 20241122173308.jpg",
     "银商/attachments",
     "银商/Pasted image 20241122173049.jpg",
-    "银商/管理项目简介.md",
     "银商/Pasted image 20241122173038.jpg",
     "银商/支付宝生活服务缴费对接.md",
     "银商/241122.md",
